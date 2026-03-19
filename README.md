@@ -93,7 +93,7 @@ php artisan native:build
 
 ## ✍️ Autor
 
-- **Jesús Melote** - *Desarrollo Inicial* - [@jmelote2909](https://github.com/jmelote2909)
+- **Jesús Meléndez Oteros** - *Desarrollo Inicial* - [@jmelote2909](https://github.com/jmelote2909)
 
 ---
 <p align="center">Desarrollado con ❤️ para el Departamento de IT</p>
