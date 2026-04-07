@@ -42,6 +42,9 @@ new class extends Component
                     <x-nav-link :href="route('teletrabajo')" :active="request()->routeIs('teletrabajo')" wire:navigate>
                         {{ __('Teletrabajo') }}
                     </x-nav-link>
+                    <x-nav-link :href="route('db-settings')" :active="request()->routeIs('db-settings')" wire:navigate>
+                        {{ __('DB Settings') }}
+                    </x-nav-link>
                 </div>
             </div>
 
@@ -101,6 +104,9 @@ new class extends Component
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('teletrabajo')" :active="request()->routeIs('teletrabajo')" wire:navigate>
                 {{ __('Teletrabajo') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('db-settings')" :active="request()->routeIs('db-settings')" wire:navigate>
+                {{ __('DB Settings') }}
             </x-responsive-nav-link>
         </div>
 

@@ -24,4 +24,7 @@ Route::get('teletrabajo', \App\Livewire\TeletrabajoManager::class)
     ->middleware(['auth', 'verified'])
     ->name('teletrabajo');
 
+Route::get('db-settings', \App\Livewire\DatabaseSettings::class)
+    ->name('db-settings');
+
 require __DIR__.'/auth.php';
