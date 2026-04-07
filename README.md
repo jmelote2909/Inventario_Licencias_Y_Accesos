@@ -49,8 +49,8 @@ Siga estos pasos para configurar el proyecto localmente:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [URL-del-repositorio]
-   cd ProyectoGestionExcelInventarioIT_ControlLicenciasYAccesos
+   git clone https://github.com/jmelote2909/Inventario_Licencias_Y_Accesos.git
+   cd Inventario_Licencias_Y_Accesos
    ```
 
 2. **Instalar dependencias de PHP y Node:**
