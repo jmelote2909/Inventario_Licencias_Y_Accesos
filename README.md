@@ -96,4 +96,4 @@ php artisan native:build
 - **Jesús Meléndez Oteros** - *Desarrollo Inicial* - [@jmelote2909](https://github.com/jmelote2909)
 
 ---
-<p align="center">Desarrollado con ❤️ para el Departamento de IT</p>
+<p align="center">Desarrollado para el Departamento de IT</p>
